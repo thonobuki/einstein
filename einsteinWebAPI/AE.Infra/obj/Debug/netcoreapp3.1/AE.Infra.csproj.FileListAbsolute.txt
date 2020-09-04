@@ -1,0 +1,4 @@
+C:\Users\tnobuki\source\repos\thonobuki\einstein\einsteinWebAPI\AE.Infra\bin\Debug\netcoreapp3.1\AE.Entidade.dll
+C:\Users\tnobuki\source\repos\thonobuki\einstein\einsteinWebAPI\AE.Infra\obj\Debug\netcoreapp3.1\AE.Infra.csprojAssemblyReference.cache
+C:\Users\tnobuki\source\repos\thonobuki\einstein\einsteinWebAPI\AE.Infra\obj\Debug\netcoreapp3.1\AE.Infra.AssemblyInfoInputs.cache
+C:\Users\tnobuki\source\repos\thonobuki\einstein\einsteinWebAPI\AE.Infra\obj\Debug\netcoreapp3.1\AE.Infra.AssemblyInfo.cs
